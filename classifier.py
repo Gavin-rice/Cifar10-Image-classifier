@@ -1,7 +1,7 @@
 #python -m venv C:/Documents/2021 dev projects/MLImages to create env
 #source c:/Users/gavin/Documents/2021_dev_projects/MLImages/dev/Scripts/activate
 #in Conda prompt type: python classifier.py to run with conda
-
+#
 #to load and save models: https://www.youtube.com/watch?v=idus3KO6Wic&ab_channel=AladdinPersson
 
 #The model we are designing is a Convolutional neural network used for image classification
