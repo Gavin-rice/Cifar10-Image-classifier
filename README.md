@@ -6,7 +6,7 @@ in order from most to least confident.
 
 ## Installation and running tips
 
-My environment is configured using miniconda and I used Python 3.9 in my virtual environment
+My environment is configured using miniconda and I used Python 3.9 in my virtual environment.
 To run properly you should consider running this in a conda or miniconda environment. 
 
 ```bash
